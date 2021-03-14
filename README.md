@@ -1,5 +1,12 @@
 # PemlanCodebase
-Repositori untuk simpan code praktikum pemrograman lanjut.
+This Repository is to save the PEMLAN Practicum source code.
 
-source code lacation:
+The source code location:
 src > main > java
+
+Subjects:
+> pertemuan1
+    * class and object
+    
+> pertemuan2
+    * constructor and instance method
