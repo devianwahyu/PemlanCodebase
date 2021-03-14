@@ -10,3 +10,6 @@ Subjects:
     
 > pertemuan2
     * constructor and instance method
+
+> pertemuan2
+    * overloading
