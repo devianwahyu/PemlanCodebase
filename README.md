@@ -11,5 +11,16 @@ Subjects:
 > pertemuan2
     * constructor and instance method
 
-> pertemuan2
+> pertemuan3
     * overloading
+
+> pertemuan4
+    * encapsulation
+
+
+Bahas soal:
+
+source code location:
+src > main > java > bahas
+
+> soal1 = Samsat
