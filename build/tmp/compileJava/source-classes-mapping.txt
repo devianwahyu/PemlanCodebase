@@ -1,9 +1,22 @@
-pertemuan1/Materi.java
- pertemuan1.Kucing
- pertemuan1.Materi
+bahas/soal1/Person.java
+ bahas.soal1.Person
 pertemuan2/Materi.java
  pertemuan2.Buku
  pertemuan2.Materi
+pertemuan4/Materi.java
+ pertemuan4.CarDealer
+ pertemuan4.Materi
+pertemuan1/Materi.java
+ pertemuan1.Kucing
+ pertemuan1.Materi
 pertemuan3/Materi.java
  pertemuan3.CarDealer
  pertemuan3.Materi
+bahas/soal1/Car.java
+ bahas.soal1.Car
+bahas/soal1/Main.java
+ bahas.soal1.Main
+bahas/soal1/Samsat.java
+ bahas.soal1.Samsat
+bahas/soal1/STNK.java
+ bahas.soal1.STNK
