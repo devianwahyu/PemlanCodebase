@@ -14,4 +14,11 @@ package pertemuan5.soal3;
 //    hargaAwal, jumlahBaju, dan merkBaju
 
 public class Soal {
+    public static void main(String[] args) {
+        Baju[] bajus = Baju.buatBanyakBaju(10000, 5, Baju.MERK_DENIM);
+        for (Baju baju: bajus) {
+            System.out.println(baju.getMerk());
+            System.out.println(baju.getHarga());
+        }
+    }
 }

@@ -13,21 +13,29 @@ package pertemuan5.soal1;
 //        perlu memberikan secara manual
 //    Buatlah program untuk membantu rumah adopsi itu menentukan nomor identitas kucing
 
-// Class Kucing
-// Ras, ID
-// ID 1000 loncat 5
+public class Kucing {
+    private static int AWAL_ID = 1000;
 
-public class Soal {
-    public static void main(String[] args) {
-        Kucing kucing1 = new Kucing("Persia");
-        Kucing kucing2 = new Kucing("Anggora");
-        Kucing kucing3 = new Kucing("Spinx");
+    private final String ras;
+    private final int noKalung;
 
-        Kucing.getKucing(kucing1);
-        Kucing.getKucing(kucing2);
-        Kucing.getKucing(kucing3);
-
-        // Beda antara static dan non-static adalah pemanggilannya
-        Kucing.tes();
+    public Kucing(String ras) {
+        this.ras = ras;
+        this.noKalung = AWAL_ID;
+        AWAL_ID += 5;
     }
+
+    public String getRas() {
+        return ras;
+    }
+
+    public int getNoKalung() {
+        return noKalung;
+    }
+
+    public static void getKucing(Kucing kucing) {
+        System.out.printf("Ras: %s\nID: %d\n\n", kucing.getRas(), kucing.getNoKalung());
+    }
+
+    public static void tes() {}
 }

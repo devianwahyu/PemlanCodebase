@@ -15,5 +15,10 @@ package pertemuan5.soal2;
 
 public class Soal {
     public static void main(String[] args) {
+        Mahasiswa mahasiswa1 = new Mahasiswa("Hendri Satria", 20);
+        Mahasiswa mahasiswa2 = new Mahasiswa("Yusuf", 21);
+
+        Mahasiswa.getMahasiswa(mahasiswa1);
+        Mahasiswa.getMahasiswa(mahasiswa2);
     }
 }
