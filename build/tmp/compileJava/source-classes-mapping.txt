@@ -20,3 +20,13 @@ bahas/soal1/Samsat.java
  bahas.soal1.Samsat
 bahas/soal1/STNK.java
  bahas.soal1.STNK
+pertemuan5/soal3/Soal.java
+ pertemuan5.soal3.Soal
+pertemuan5/soal4/Soal.java
+ pertemuan5.soal4.Soal
+pertemuan5/soal1/Soal.java
+ pertemuan5.soal1.Soal
+pertemuan5/soal2/Mahasiswa.java
+ pertemuan5.soal2.Mahasiswa
+pertemuan5/soal2/Soal.java
+ pertemuan5.soal2.Soal
