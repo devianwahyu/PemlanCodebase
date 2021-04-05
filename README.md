@@ -17,6 +17,9 @@ Subjects:
 > pertemuan4
     * encapsulation
 
+> pertemuan5
+    * static & constant
+
 
 Bahas soal:
 
@@ -24,3 +27,4 @@ source code location:
 src > main > java > bahas
 
 > soal1 = Samsat
+> soal2 = GeneratePlatNumber
