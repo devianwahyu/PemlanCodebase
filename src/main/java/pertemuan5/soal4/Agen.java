@@ -31,20 +31,29 @@ package pertemuan5.soal4;
 //    Buatlah program yang sesuai dengan studi kasus di atas sehingga
 //    menghasilkan output sesuai gambar pada lampiran
 
-public class Soal {
-    public static void main(String[] args) {
-        HpPabrik hp1 = new HpPabrik(HpPabrik.NAKIO);
-        HpPabrik hp2 = new HpPabrik(HpPabrik.SUMSANG);
-        HpPabrik hp3 = new HpPabrik(HpPabrik.XAIOMI);
-        HpPabrik hp4 = new HpPabrik(HpPabrik.SYNO);
-        HpPabrik hp5 = new HpPabrik(HpPabrik.NAKIO);
-        HpPabrik hp6 = new HpPabrik(HpPabrik.SYNO);
+class HpAgen {
+    private static int agenCode = 100;
 
-        HpPabrik[] hpPabriks = {hp1, hp2, hp3, hp4, hp5, hp6};
+    private final String name;
+    private final String finalCode;
 
-        HpAgen[] hpAgens = HpAgen.modifyCode(hpPabriks);
-        for (HpAgen hpAgen: hpAgens) {
-            hpAgen.getHpAgen();
+    public HpAgen(String name, String finalCode) {
+        this.name = name;
+        this.finalCode = finalCode;
+    }
+
+    public static HpAgen[] modifyCode(HpPabrik[] hpPabriks) {
+        HpAgen[] hpAgens = new HpAgen[hpPabriks.length];
+
+        for (int i = 0; i < hpAgens.length; i++) {
+            String code = hpPabriks[i].getCode() + agenCode;
+            hpAgens[i] = new HpAgen(hpPabriks[i].getName(), code) ;
+            agenCode += 3;
         }
+        return hpAgens;
+    }
+
+    public void getHpAgen() {
+        System.out.println("Merk: " + this.name + "\nCode seri: " + this.finalCode + "\n\n");
     }
 }
