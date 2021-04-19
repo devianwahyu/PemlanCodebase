@@ -1,39 +1,78 @@
+bahas/soal1/Samsat.java
+ bahas.soal1.Samsat
+pertemuan5/soal4/Soal.java
+ pertemuan5.soal4.Soal
+bahas/soal2/GeneratePlat.java
+ bahas.soal2.GeneratePlat
+pertemuan5/soal2/Mahasiswa.java
+ pertemuan5.soal2.Mahasiswa
+pertemuan5/soal2/Soal.java
+ pertemuan5.soal2.Soal
+pertemuan5/soal4/Pabrik.java
+ pertemuan5.soal4.HpPabrik
+utp/soal1/Book.java
+ utp.soal1.Book
+inheritance/tugas/Pekerja.java
+ inheritance.tugas.Pekerja
 bahas/soal1/Person.java
  bahas.soal1.Person
+utp/soal1/Soal.java
+ utp.soal1.Soal
+pertemuan5/soal4/Agen.java
+ pertemuan5.soal4.HpAgen
 pertemuan2/Materi.java
  pertemuan2.Buku
  pertemuan2.Materi
-pertemuan4/Materi.java
- pertemuan4.CarDealer
- pertemuan4.Materi
 pertemuan1/Materi.java
  pertemuan1.Kucing
  pertemuan1.Materi
 pertemuan3/Materi.java
  pertemuan3.CarDealer
  pertemuan3.Materi
-bahas/soal1/Car.java
- bahas.soal1.Car
-bahas/soal1/Main.java
- bahas.soal1.Main
-bahas/soal1/Samsat.java
- bahas.soal1.Samsat
-bahas/soal1/STNK.java
- bahas.soal1.STNK
-pertemuan5/Materi.java
- pertemuan5.Materi
- pertemuan5.User
-pertemuan5/soal2/Soal.java
- pertemuan5.soal2.Soal
-pertemuan5/soal4/Soal.java
- pertemuan5.soal4.Soal
-pertemuan5/soal1/Soal.java
- pertemuan5.soal1.Soal
-pertemuan5/soal1/Kucing.java
- pertemuan5.soal1.Kucing
-pertemuan5/soal2/Mahasiswa.java
- pertemuan5.soal2.Mahasiswa
 pertemuan5/soal3/Soal.java
  pertemuan5.soal3.Soal
 pertemuan5/soal3/Baju.java
  pertemuan5.soal3.Baju
+utp/soal2/ParkingPlace.java
+ utp.soal2.ParkingPlace
+pertemuan5/soal1/Soal.java
+ pertemuan5.soal1.Soal
+bahas/soal2/Soal.java
+ bahas.soal2.Soal
+pertemuan5/soal1/Kucing.java
+ pertemuan5.soal1.Kucing
+bahas/soal1/Car.java
+ bahas.soal1.Car
+pertemuan5/Materi.java
+ pertemuan5.Materi
+ pertemuan5.User
+pertemuan4/Materi.java
+ pertemuan4.CarDealer
+ pertemuan4.Materi
+utp/soal2/Main.java
+ utp.soal2.Main
+bahas/soal1/STNK.java
+ bahas.soal1.STNK
+utp/soal2/Car.java
+ utp.soal2.Car
+bahas/soal1/Main.java
+ bahas.soal1.Main
+utp/soal2/ParkingTicket.java
+ utp.soal2.ParkingTicket
+inheritance/tugas/MahasiswaFILKOM.java
+ inheritance.tugas.MahasiswaFILKOM
+inheritance/tugas/Manager.java
+ inheritance.tugas.Manager
+inheritance/tugas/Manusia.java
+ inheritance.tugas.Manusia
+inheritance/tugas/Main.java
+ inheritance.tugas.Main
+inheritance/Main.java
+ inheritance.Main
+ inheritance.Parent
+inheritance/soal1/Pet.java
+ inheritance.soal1.Pet
+inheritance/soal1/Cow.java
+ inheritance.soal1.Cow
+inheritance/soal1/Main.java
+ inheritance.soal1.Main
