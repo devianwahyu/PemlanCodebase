@@ -67,12 +67,17 @@ inheritance/tugas/Manusia.java
  inheritance.tugas.Manusia
 inheritance/tugas/Main.java
  inheritance.tugas.Main
-inheritance/Main.java
- inheritance.Main
- inheritance.Parent
+inheritance/soal1/Main.java
+ inheritance.soal1.Main
 inheritance/soal1/Pet.java
  inheritance.soal1.Pet
 inheritance/soal1/Cow.java
  inheritance.soal1.Cow
-inheritance/soal1/Main.java
- inheritance.soal1.Main
+polimorfisme/materi/MainPoli.java
+ polimorfisme.materi.Animal
+ polimorfisme.materi.MainPoli
+ polimorfisme.materi.Pig
+polimorfisme/materi/MainAbstract.java
+ polimorfisme.materi.Budi
+ polimorfisme.materi.MainAbstract
+ polimorfisme.materi.Manusia
