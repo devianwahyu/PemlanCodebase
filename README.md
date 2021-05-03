@@ -5,19 +5,19 @@ The source code location:
 src > main > java
 
 Subjects:
-> pertemuan1
+> p1objectclass
     * class and object
     
-> pertemuan2
+> p2constinstance
     * constructor and instance method
 
-> pertemuan3
+> p3overload
     * overloading
 
-> pertemuan4
+> p4encapsulation
     * encapsulation
 
-> pertemuan5
+> p5constantstatic
     * static & constant
 
 
