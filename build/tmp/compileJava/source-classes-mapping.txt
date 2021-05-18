@@ -1,64 +1,95 @@
 p6inheritance/tugas/Main.java
  p6inheritance.tugas.Main
-bahas/soal1/Samsat.java
- bahas.soal1.Samsat
 p6inheritance/soal1/Pet.java
  p6inheritance.soal1.Pet
-p1objectclass/Materi.java
- p1objectclass.Kucing
- p1objectclass.Materi
-p5constantstatic/soal3/Soal.java
- p5constantstatic.soal3.Soal
-p6inheritance/soal1/Main.java
- p6inheritance.soal1.Main
 p2constinstance/Materi.java
  p2constinstance.Buku
  p2constinstance.Materi
-bahas/soal2/GeneratePlat.java
- bahas.soal2.GeneratePlat
-p6inheritance/soal1/Cow.java
- p6inheritance.soal1.Cow
-p5constantstatic/soal4/Agen.java
- p5constantstatic.soal4.HpAgen
+p8interface/soal1/hewan/BurungUnta.java
+ p8interface.soal1.hewan.BurungUnta
+p8interface/soal2/Organism.java
+ p8interface.soal2.Organism
 p6inheritance/tugas/MahasiswaFILKOM.java
  p6inheritance.tugas.MahasiswaFILKOM
-utp/soal1/Book.java
- utp.soal1.Book
+p8interface/soal2/Animal.java
+ p8interface.soal2.Animal
 p5constantstatic/soal4/Pabrik.java
  p5constantstatic.soal4.HpPabrik
+p1objectclass/Materi.java
+ p1objectclass.Kucing
+ p1objectclass.Materi
 p6inheritance/tugas/Manager.java
  p6inheritance.tugas.Manager
-bahas/soal1/Person.java
- bahas.soal1.Person
 p6inheritance/tugas/Manusia.java
  p6inheritance.tugas.Manusia
-p6inheritance/tugas/Pekerja.java
- p6inheritance.tugas.Pekerja
-utp/soal1/Soal.java
- utp.soal1.Soal
-p5constantstatic/soal2/Mahasiswa.java
- p5constantstatic.soal2.Mahasiswa
 utp/soal2/Main.java
  utp.soal2.Main
-p5constantstatic/soal4/Soal.java
- p5constantstatic.soal4.Soal
 p7polimorfisme/materi/MainAbstract.java
  p7polimorfisme.materi.Budi
  p7polimorfisme.materi.MainAbstract
  p7polimorfisme.materi.Manusia
-utp/soal2/ParkingPlace.java
- utp.soal2.ParkingPlace
+p8interface/soal1/vertebrata/Aves.java
+ p8interface.soal1.vertebrata.Aves
+p8interface/soal1/kembangbiak/Ovovivipar.java
+ p8interface.soal1.kembangbiak.Ovovivipar
+p8interface/soal1/hewan/Salmon.java
+ p8interface.soal1.hewan.Salmon
 bahas/soal1/Car.java
  bahas.soal1.Car
-p3overload/Materi.java
- p3overload.CarDealer
- p3overload.Materi
 p5constantstatic/soal1/Kucing.java
  p5constantstatic.soal1.Kucing
 bahas/soal1/STNK.java
  bahas.soal1.STNK
 p5constantstatic/soal2/Soal.java
  p5constantstatic.soal2.Soal
+utp/soal2/ParkingTicket.java
+ utp.soal2.ParkingTicket
+p6inheritance/soal1/Cow.java
+ p6inheritance.soal1.Cow
+p6inheritance/tugas/Pekerja.java
+ p6inheritance.tugas.Pekerja
+bahas/soal1/Samsat.java
+ bahas.soal1.Samsat
+p8interface/soal1/Main.java
+ p8interface.soal1.Main
+p5constantstatic/soal3/Soal.java
+ p5constantstatic.soal3.Soal
+p6inheritance/soal1/Main.java
+ p6inheritance.soal1.Main
+p8interface/soal1/vertebrata/Pisces.java
+ p8interface.soal1.vertebrata.Pisces
+bahas/soal2/GeneratePlat.java
+ bahas.soal2.GeneratePlat
+p8interface/soal1/vertebrata/Mammals.java
+ p8interface.soal1.vertebrata.Mammals
+p5constantstatic/soal4/Agen.java
+ p5constantstatic.soal4.HpAgen
+utp/soal1/Book.java
+ utp.soal1.Book
+p8interface/soal1/hewan/Sapi.java
+ p8interface.soal1.hewan.Sapi
+bahas/soal1/Person.java
+ bahas.soal1.Person
+utp/soal1/Soal.java
+ utp.soal1.Soal
+p5constantstatic/soal2/Mahasiswa.java
+ p5constantstatic.soal2.Mahasiswa
+p8interface/main/Main.java
+ p8interface.main.Anak
+ p8interface.main.Ayah
+ p8interface.main.Ibu
+ p8interface.main.Main
+p8interface/soal1/kembangbiak/Vivipar.java
+ p8interface.soal1.kembangbiak.Vivipar
+p5constantstatic/soal4/Soal.java
+ p5constantstatic.soal4.Soal
+p8interface/soal1/kembangbiak/Ovipar.java
+ p8interface.soal1.kembangbiak.Ovipar
+utp/soal2/ParkingPlace.java
+ utp.soal2.ParkingPlace
+p3overload/Materi.java
+ p3overload.CarDealer
+ p3overload.Materi
 utp/soal2/Car.java
  utp.soal2.Car
 bahas/soal1/Main.java
@@ -66,8 +97,6 @@ bahas/soal1/Main.java
 p4encapsulation/Materi.java
  p4encapsulation.CarDealer
  p4encapsulation.Materi
-utp/soal2/ParkingTicket.java
- utp.soal2.ParkingTicket
 p5constantstatic/Materi.java
  p5constantstatic.Materi
  p5constantstatic.User
@@ -81,28 +110,11 @@ bahas/soal2/Soal.java
  bahas.soal2.Soal
 p5constantstatic/soal3/Baju.java
  p5constantstatic.soal3.Baju
-p8interface/main/Main.java
- p8interface.main.Anak
- p8interface.main.Ayah
- p8interface.main.Ibu
- p8interface.main.Main
-p8interface/soal1/vertebrata/Mammals.java
- p8interface.soal1.vertebrata.Mammals
-p8interface/soal1/hewan/BurungUnta.java
- p8interface.soal1.hewan.BurungUnta
-p8interface/soal1/vertebrata/Aves.java
- p8interface.soal1.vertebrata.Aves
-p8interface/soal1/kembangbiak/Vivipar.java
- p8interface.soal1.kembangbiak.Vivipar
-p8interface/soal1/kembangbiak/Ovipar.java
- p8interface.soal1.kembangbiak.Ovipar
-p8interface/soal1/kembangbiak/Ovovivipar.java
- p8interface.soal1.kembangbiak.Ovovivipar
-p8interface/soal1/hewan/Salmon.java
- p8interface.soal1.hewan.Salmon
-p8interface/soal1/vertebrata/Pisces.java
- p8interface.soal1.vertebrata.Pisces
-p8interface/soal1/hewan/Sapi.java
- p8interface.soal1.hewan.Sapi
-p8interface/soal1/Main.java
- p8interface.soal1.Main
+p8interface/soal2/Viviparous.java
+ p8interface.soal2.Viviparous
+p8interface/soal2/Mammals.java
+ p8interface.soal2.Mammals
+p8interface/soal2/Babi.java
+ p8interface.soal2.Babi
+p8interface/soal2/Main.java
+ p8interface.soal2.Main
