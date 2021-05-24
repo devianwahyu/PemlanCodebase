@@ -112,9 +112,21 @@ p5constantstatic/soal3/Baju.java
  p5constantstatic.soal3.Baju
 p8interface/soal2/Viviparous.java
  p8interface.soal2.Viviparous
-p8interface/soal2/Mammals.java
- p8interface.soal2.Mammals
-p8interface/soal2/Babi.java
- p8interface.soal2.Babi
 p8interface/soal2/Main.java
  p8interface.soal2.Main
+bahas/soal3/Main.java
+ bahas.soal3.Main
+bahas/soal3/Rush.java
+ bahas.soal3.Rush
+p8interface/soal2/Babi.java
+ p8interface.soal2.Babi
+bahas/soal3/DieselEngine.java
+ bahas.soal3.DieselEngine
+p8interface/soal2/Mammals.java
+ p8interface.soal2.Mammals
+bahas/soal3/Car.java
+ bahas.soal3.Car
+bahas/soal3/GasolineEngine.java
+ bahas.soal3.GasolineEngine
+bahas/soal3/ElectricEngine.java
+ bahas.soal3.ElectricEngine
