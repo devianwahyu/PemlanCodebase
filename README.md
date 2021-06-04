@@ -28,3 +28,4 @@ src > main > java > bahas
 
 > soal1 = Samsat
 > soal2 = GeneratePlatNumber
+> etc
